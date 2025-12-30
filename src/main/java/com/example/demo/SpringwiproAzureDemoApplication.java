@@ -12,7 +12,7 @@ public class SpringwiproAzureDemoApplication {
 	@GetMapping("/message")
 	 public String message()
 	 {
-		 return  "Spring boot app deployed in azure  successfully ";
+		 return  "Spring boot app deployed in azure successfully ";
 	 }
 
 	public static void main(String[] args) {
